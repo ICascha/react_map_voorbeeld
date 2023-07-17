@@ -1,0 +1,17 @@
+Test {
+    color: "black";
+    background-color: "black";
+    stroke: "blue";
+    opacity: 0;
+  }
+
+#round1 {
+  display: inline-block;
+  border: thin solid dimgray;
+  width: 50px;
+  height: 15px;
+  text-align: right;
+  line-height: 15px;
+  padding: 5px;
+  vertical-align: middle
+}
